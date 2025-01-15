@@ -1,2 +1,2 @@
 # Hiring
-We are Alfa-Software, the second branch of Tecsee in Heilbronn, Germany, with 8+ years in software and marketing. This repo lists current openings at Alfa-Software Hurghada. Interested? Send your CV to hr@alfa-software.com and mention the position title!
+We are Alfa-Software, the second branch of Tecsee, headquartered in Heilbronn, Germany. We have over 8 years of experience in the software and marketing fields. This repository contains all current job openings at Alfa-Software Hurghada. If you’re interested in joining our team, please review the listed positions and send your CV to hr@alfa-software.com. Don’t forget to mention the position title in your email subject! We look forward to hearing from you.
