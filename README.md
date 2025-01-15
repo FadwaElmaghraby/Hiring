@@ -52,3 +52,9 @@
 ● BSc in Human Resources Management, Organizational Psychology, Business Administration or relevant field
 
 ● Ability to analyze hiring data and trends for continuous improvement.
+
+## How to apply
+If you’re ready to take on a pivotal role, we’d love to hear from you. Please send your CV and a cover letter to hr@alfa-software.com with the subject line “Recruitment Specialist Application.”  
+
+## About us 
+We are Alfa-Software, the second branch of Tecsee, headquartered in Heilbronn, Germany. We have over 8 years of experience in the software and marketing fields. This repository contains all current job openings at Alfa-Software Hurghada. If you’re interested in joining our team, please review the listed positions and send your CV to hr@alfa-software.com. Don’t forget to mention the position title in your email subject! We look forward to hearing from you.
